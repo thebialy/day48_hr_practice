@@ -25,3 +25,24 @@ hr.hr6 {
 	border: 0;
 	box-shadow: 0 10px 10px -10px black inset;
 }
+
+hr.hr7 {
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, black, #f0f0f0);
+}
+
+hr.hr8 {
+	border-top: 4px double black;
+	text-align: center;
+}
+hr.hr8:after {
+	content: '\002665';
+	display: inline-block;
+	position: relative;
+	top: -15px;
+	padding: 0 10px;
+	background: #f0f0f0;
+	color: black;
+	font-size: 18px;
+}
