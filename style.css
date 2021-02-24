@@ -1,7 +1,20 @@
-.hr1 {
-	border-top: 3px double #8c8b8b;
+hr.hr1 {
+	border-top: 3px double black;
 }
 
-.hr2 {
-    border-top: 1px dashed #8c8b8b
+hr.hr2 {
+    border-top: 1px dashed black
+}
+
+hr.hr3 {
+    border-top: 1px dotted black;
+}
+
+hr.hr4 {
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed #fff;
+}
+
+hr.hr5 {
+    
 }
