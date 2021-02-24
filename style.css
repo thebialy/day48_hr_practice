@@ -16,5 +16,12 @@ hr.hr4 {
 }
 
 hr.hr5 {
-    
+    border-top: 1px dotted black;
+	border-bottom: 1px dotted #fff;
+}
+
+hr.hr6 {
+    height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px black inset;
 }
