@@ -1,5 +1,5 @@
 body {
-    background-color: #99FFFF;
+    background-color: #99FF99;
 }
 
 h1 {
@@ -69,22 +69,23 @@ hr.hr9:after {
     background: #f0f0f0; 
     color: black; 
     font-size: 18px; 
-  }
+}
 
-  hr.hr10 { 
+hr.hr10 { 
     height: 30px; 
     border-style: solid; 
     border-color: #8c8b8b; 
     border-width: 1px 0 0 0; 
     border-radius: 20px; 
-  } 
-  hr.hr10:before { 
+} 
+
+hr.hr10:before { 
     display: block; 
     content: ""; 
     height: 30px; 
     margin-top: -31px; 
     border-style: solid; 
-    border-color: #8c8b8b; 
+    border-color: black; 
     border-width: 0 0 1px 0; 
     border-radius: 20px; 
-  }
+}
