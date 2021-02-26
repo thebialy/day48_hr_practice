@@ -6,11 +6,11 @@ h1 {
     text-align: center;
 }
 
-hr.hr1 {
+hr1 {
 	border-top: 3px double black;
 }
 
-hr.hr2 {
+hr2 {
     border-top: 1px dashed black
 }
 
