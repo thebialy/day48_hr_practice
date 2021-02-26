@@ -59,7 +59,7 @@ h1 {
     border-top: 1px dashed black; 
 } 
 
-hr.hr9:after { 
+.hr9:after { 
     content: '\002702'; 
     display: inline-block; 
     position: relative; 
@@ -71,7 +71,7 @@ hr.hr9:after {
     font-size: 18px; 
 }
 
-hr.hr10 { 
+.hr10 { 
     height: 30px; 
     border-style: solid; 
     border-color: #8c8b8b; 
