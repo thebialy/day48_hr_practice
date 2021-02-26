@@ -44,7 +44,7 @@ h1 {
 	border-top: 4px double black;
 	text-align: center;
 }
-hr.hr8:after {
+.hr8:after {
 	content: '\002665';
 	display: inline-block;
 	position: relative;
@@ -55,7 +55,7 @@ hr.hr8:after {
 	font-size: 18px;
 }
 
-hr.hr9 { 
+.hr9 { 
     border-top: 1px dashed black; 
 } 
 
