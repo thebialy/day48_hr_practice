@@ -82,7 +82,7 @@ h1 {
 .hr10:before { 
     display: block; 
     content: ""; 
-    height: 28px; 
+    height: 27px; 
     margin-top: -30px; 
     border-style: solid; 
     border-color: black; 
